@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Seaweed+Script');
+
+
+.square{
+	height: 80px;
+	width: 80px;
+	font-size: 45pt;
+	text-align: center;
+	font-family: comic sans MS;
+}
+
+
+body {
+	width: 550px;
+	margin: auto;
+	background: #90E0F3;
+}
+
+h1 {
+	border-bottom: 1px solid black;
+	font-family: 'Seaweed Script', cursive;
+}
+
+#message{
+	font-size: 18pt;
+	font-family: comic sans MS;
+}
+#restart {
+	font-family: comic sans MS;
+	font-size: 18pt;
+	text-decoration: none;
+	color: black;
+}
